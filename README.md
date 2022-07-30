@@ -1,1 +1,3 @@
 # script
+
+一些可能会用到的脚本。go bash python ...
